@@ -5,7 +5,7 @@
 - **CCID:** `aalok1`
 
 ## References and Resources
-`N/A`
+`Claude by Anthropic - Used to check whether the delete code is working properly.`
 
 ## Verbal Collaboration
 `N/A`
